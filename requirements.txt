@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+langchain_experimental
+langchain_text_splitters
+langchain_groq
+pandas
+python-dotenv
+PyMuPDF
